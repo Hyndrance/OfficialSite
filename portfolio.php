@@ -3,10 +3,10 @@
             <div class="row text-center">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="section-title">
-                        <h2>Our Latest Projects</h2>
+                        <h2>What else we do</h2>
                         <hr>
                     </div>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
+                    <p>Being part of IPnology, we do not only focus on staying in front of the computer and code, we also think it will be helpful for us to program by having a lot of activities</p>
                 </div>
             </div>
             <div class="space"></div>
