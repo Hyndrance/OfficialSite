@@ -18,8 +18,8 @@
                         <div class="hover-bg">
                             <a href="#">
                                 <div class="hover-text">
-                                    <h5>Logo Design</h5>
-                                    <p class="lead">Client Seal</p>
+                                    <h5>We love coffee</h5>
+                                    <p class="lead">@tnt</p>
                                     <div class="hline"></div>
                                 </div>
                                 <img src="include/img/portfolio/1.jpg" class="img-responsive" alt="...">
@@ -32,8 +32,8 @@
                         <div class="hover-bg">
                             <a href="#">
                                 <div class="hover-text">
-                                    <h5>Stationery</h5>
-                                    <p class="lead">Design Project</p>
+                                    <h5>We do parties</h5>
+                                    <p class="lead"></p>
                                     <div class="hline"></div>
                                 </div>
                                 <img src="include/img/portfolio/2.jpg" class="img-responsive" alt="...">
@@ -46,8 +46,8 @@
                         <div class="hover-bg">
                             <a href="#">
                                 <div class="hover-text">
-                                    <h5>Branding</h5>
-                                    <p class="lead">Metalbrand</p>
+                                    <h5>We go to the beach</h5>
+                                    <p class="lead"></p>
                                     <div class="hline"></div>
                                 </div>
                             </a>
@@ -60,8 +60,8 @@
                         <div class="hover-bg">
                             <a href="#">
                                 <div class="hover-text">
-                                    <h5>Business Card</h5>
-                                    <p class="lead">Clothing Line</p>
+                                    <h5>Xmas Party 2016</h5>
+                                    <p class="lead">@Charlie Jay</p>
                                     <div class="hline"></div>
                                 </div>
                             </a>
