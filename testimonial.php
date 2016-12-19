@@ -2,27 +2,28 @@
         <div class="overlay">
             <div class="container">
                 <div class="section-title">
-                    <h2>What my Clients Say...</h2>
+                    <h2>What we believe in...</h2>
                     <hr>
                 </div>
 
                 <div id="testimonial" class="owl-carousel owl-theme">
                   <div class="item">
-                    <h3>Et iusto odio dignissimos ducimus qui blanditiis <br>praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint <br>occaecati cupiditate non provident. </h3>
+                    <h3>“If you think math is hard, try web design.”
+					</h3>
                     <br>
-                    <h6>LJ, Abc Company</h6>
+                    <h6>-Trish Parr</h6>
                   </div>
 
                   <div class="item">
-                    <h3>Fusce dapibus, tellus ac cursus commodo, tortor<br> mauris condimentum. Duis mollis, est non commodo luctus, nisi erat </h3>
+                    <h3>“There are three responses to a piece of design – yes, no, and WOW! Wow is the one to aim for.”</h3>
                     <br>
-                    <h6>Kai, Web Geekster</h6>
+                    <h6>  -Milton Glaser </h6>
                   </div>
 
                   <div class="item">
-                    <h3>Cras justo odio, dapibus ac facilisis in, egestas <br>eget quam. Donec id elit non mi porta gravida at eget metus.</h3>
+                    <h3>“If there’s one thing you learn by working on a lot of different Web sites, it’s that almost any design idea–no matter how appallingly bad–can be made usable in the right circumstances, with enough effort.”  </h3>
                     <br>
-                    <h6>Jenn, Coders' Playground</h6>
+                    <h6>― Steve Krug, Don’t Make Me Think: A Common Sense Approach to Web Usability</h6>
                   </div>
                 </div>
             </div>
