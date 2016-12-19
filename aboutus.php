@@ -37,7 +37,7 @@
                             <div class="team">
                                 <img src="include/img/team/debbie.jpg" class="img-responsive img-circle" alt="...">
                                 <br>
-                                <h4>Debbie Severino "Deb"</h4>
+                                <h4>Debbie Severino "Dee"</h4>
                                 <p class="small">System Analyst</p>
                                 <hr>
                             </div>

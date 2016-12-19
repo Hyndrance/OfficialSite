@@ -17,6 +17,7 @@
     <link rel="apple-touch-icon" href="include/img/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="include/img/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="include/img/apple-touch-icon-114x114.png">
+	<link rel="shortcut icon" type="image/x-icon" href="include/img/icon.png" />
 
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css"  href="include/css/bootstrap.css">
