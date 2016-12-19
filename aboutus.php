@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="space"></div>
-            <div class="row">
+            <div class="row" style="margin-left:120px;">
                 <div class="col-md-10 col-sm-10">
                     <div class="row">
                         <div class="col-md-4 col-sm-4">
@@ -85,9 +85,8 @@
                             <span class="fa fa-paper-plane-o fa-2x"></span>
                         </a>
                     </div>
-                </div>
-				
 				--->
+				</div>
 	</div>
             <div class="text-center">
                 <a href="#contact" class="page-scroll down-btn">
