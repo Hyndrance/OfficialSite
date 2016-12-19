@@ -223,9 +223,7 @@ background-color: transparent;
 }
 
 a.down-btn span.fa.fa-angle-down {
-	font-size: 26px;
-	border: 1px solid #c59a6d;
-	border-radius: 2px;
+	font-size: 30px;
 	padding: 7px 5px;
 	position: relative;
 	cursor: pointer;
@@ -257,24 +255,21 @@ a.down-btn span.fa.fa-angle-down {
 }
 
 .service{
-	border: 1px solid #222;
-	margin-top: 20px;
+	border: 1px solid #e8e8e8;
 	margin-bottom: 0px;
 	transition: all 0.3s;
 	position: relative;
-	padding: 60px 25px;
+	padding: 50px 20px;
 }
 .service:hover>h4,
 .service:hover>span.fa{
-	color: #c59a6d;
+	cursor: pointer;
 }
 .service:hover{
-	border-color: #c59a6d;
+	border: 1px solid #605F5F;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	cursor: pointer;
-	padding-top: 80px;
-	padding-bottom: 80px;
 }
 .service p{
 	font-size: 14px;

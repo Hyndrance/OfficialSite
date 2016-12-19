@@ -6,7 +6,7 @@
                         <h2>Services</h2>
                         <hr>
                     </div>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
+                    <p>Here are the services that we offer:</p>
                 </div>
             </div>
 
@@ -16,24 +16,24 @@
                 <div class="col-md-4 col-sm-4">
                     <div class="service">
                         <span class="fa fa-book fa-3x"></span>
-                        <h4>Branding</h4>
-                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis. </p>
+                        <h4>Website Design</h4>
+                        <p>The different areas of web design include web graphic design; interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization. </p>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-4">
                     <div class="service">
-                        <span class="fa fa-bicycle fa-3x"></span>
-                        <h4>Web Devepment</h4>
-                        <p>Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Accusamus et. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis </p>
+                        <span class="fa fa-cog fa-3x"></span>
+                        <h4>App Development</h4>
+                        <p>These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g. JavaScript) to provide an "application-like" experience within a Web browser. </p>
                     </div>
                 </div>
 
                 <div class="col-md-4 col-sm-4">
                     <div class="service">
-                        <span class="fa fa-plug fa-3x"></span>
-                        <h4>App Design</h4>
-                        <p>Nulla vitae elit libero, a pharetra augue. At vero eos et accusamus et iusto odio dignissimos ducimus. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. </p>
+                        <span class="fa fa-paint-brush fa-3x"></span>
+                        <h4>Graphic Design</h4>
+                        <p>We can design what our customer wants. We are capable of designing projects at a very good quality because of our skills, and creativity. </p>
                     </div>
                 </div>
             </div>
