@@ -22,7 +22,7 @@
                                     <p class="lead">Client Seal</p>
                                     <div class="hline"></div>
                                 </div>
-                                <img src="include/img/portfolio/01.jpg" class="img-responsive" alt="...">
+                                <img src="include/img/portfolio/1.jpg" class="img-responsive" alt="...">
                             </a>
                         </div>
                     </div>
@@ -36,7 +36,7 @@
                                     <p class="lead">Design Project</p>
                                     <div class="hline"></div>
                                 </div>
-                                <img src="include/img/portfolio/02.jpg" class="img-responsive" alt="...">
+                                <img src="include/img/portfolio/2.jpg" class="img-responsive" alt="...">
                             </a>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                                     <div class="hline"></div>
                                 </div>
                             </a>
-                            <img src="include/img/portfolio/03.jpg" class="img-responsive" alt="...">
+                            <img src="include/img/portfolio/3.jpg" class="img-responsive" alt="...">
                         </div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
                                     <div class="hline"></div>
                                 </div>
                             </a>
-                            <img src="include/img/portfolio/04.jpg" class="img-responsive" alt="...">
+                            <img src="include/img/portfolio/4.jpg" class="img-responsive" alt="...">
                         </div>
                     </div>
                 </div>
