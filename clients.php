@@ -7,10 +7,10 @@
                 </div>
 
                 <ul class="clients">
-                    <li><a href="#"><img src="include/img/tools/php.png" class="img-responsive" alt="..."></a></li>
                     <li><a href="#"><img src="include/img/tools/html.png" class="img-responsive" alt="..."></a></li>
-                    <li><a href="#"><img src="include/img/tools/css.jpg" class="img-responsive" alt="..."></a></li>
-                    <li><a href="#"><img src="include/img/tools/js.jpg" class="img-responsive" alt="..."></a></li>
+                    <li><a href="#"><img src="include/img/tools/css.png" class="img-responsive" alt="..."></a></li>
+                    <li><a href="#"><img src="include/img/tools/js.png" class="img-responsive" alt="..."></a></li>
+                    <li><a href="#"><img src="include/img/tools/php.png" class="img-responsive" alt="..."></a></li>
                 </ul>
             </div>
         </div>
