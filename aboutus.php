@@ -17,7 +17,7 @@
                             <div class="team">
                                 <img src="include/img/team/fred.jpg" class="img-responsive img-circle" alt="...">
                                 <br>
-                                <h4>Winifred Garcia "Fred"</h4>
+                                <h4>Winifredo Garcia Jr. "Fred"</h4>
                                 <p class="small">Project Manager/CEO/Founder</p>
                                 <hr>
                             </div>
@@ -37,7 +37,7 @@
                             <div class="team">
                                 <img src="include/img/team/debbie.jpg" class="img-responsive img-circle" alt="...">
                                 <br>
-                                <h4>Debbie Severino "Deb"</h4>
+                                <h4>Debbie Diane Severino "Dee"</h4>
                                 <p class="small">System Analyst</p>
                                 <hr>
                             </div>
@@ -67,7 +67,7 @@
                             <div class="team">
                                 <img src="include/img/team/robert.jpg" class="img-responsive img-circle" alt="...">
                                 <br>
-                                <h4>Robert Capapas "Ski"</h4>
+                                <h4>Robert Carl Capapas "Ski"</h4>
                                 <p class="small">Senior Designer</p>
                                 <hr>
                             </div>
