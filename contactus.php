@@ -2,7 +2,9 @@
         <div class="container">
             <div class="section-title text-center">
                 <h2>Contact Us</h2>
-                <hr>
+				We love to hear from you. Please contact us if you have any questions.</br>
+				We will respond as soon as we can.
+				<hr>
             </div>
             <div class="space"></div>
 
@@ -11,10 +13,10 @@
                     <address>
                         <strong>Address</strong><br>
                         <br>
-                        ThemeForces.Com<br>
-                        Igbalangao, Bugasong, Anitque<br>
-                        5704, Philippines<br>
-                        Phone: (123) 456-7890
+                        teamipnology.com<br>
+                        Bacolod City, Neg. Occ.<br>
+                        6100, Philippines<br>
+                        Phone: N/A
                         <ul class="social">
                             <li><a href="#"><span class="fa fa-facebook"></span></a></li>
                             <li><a href="#"><span class="fa fa-google-plus"></span></a></li>
