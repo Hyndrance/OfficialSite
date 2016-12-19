@@ -60,6 +60,16 @@ a:focus{
 	color: #c59a6d;
 	text-decoration: none;
 }
+
+#home a.down-btn span.fa.fa-angle-down {
+	font-size: 26px;
+	border-radius: 2px;
+	padding: 7px 5px;
+	position: relative;
+	margin-top: 100px;
+	color: #ffffff;
+	cursor: pointer;
+}
 #home{
 	background: url(../img/bg1.jpg);
 	background-size: cover;
@@ -71,17 +81,6 @@ a:focus{
 	padding-top: 60px;
 	color: #ffffff;
 }
-#home a.down-btn span.fa.fa-angle-down {
-	font-size: 26px;
-	border: 1px solid #c59a6d;
-	border-radius: 2px;
-	padding: 7px 5px;
-	position: relative;
-	margin-top: 100px;
-	color: #ffffff;
-	cursor: pointer;
-}
-
 /* IP Logo */
 .iplogo{
 	margin-left:auto;
