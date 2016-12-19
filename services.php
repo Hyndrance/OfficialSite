@@ -39,7 +39,7 @@
 				
 				<div class="col-xs-3 col-sm-3">
                     <div class="service">
-                        <span class="fa fa-paint-brush fa-3x"></span>
+                        <span class="fa fa-shopping-cart fa-3x"></span>
                         <h4>Ecommerce</h4>
                         <p>These business transactions occur either business-to-business, business-to-consumer, consumer-to-consumer or consumer-to-business.</p>
                     </div>
