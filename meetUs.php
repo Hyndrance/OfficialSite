@@ -3,10 +3,11 @@
             <div class="row text-center">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="section-title">
-                        <h2>Meet Us</h2>
+                        <h2>Who we are</h2>
                         <hr>
                     </div>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.</p>
+                    <p>We are a Bacolod-based team of young and enthusiastic web developers and IT professionals, who are passionate in our craft, and together
+					we work to create innovative and useful projects for the future.</p>
                     <a href="#services" class="down-btn page-scroll">
                         <span class="fa fa-angle-down"></span>
                     </a>
